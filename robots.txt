@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avocadoTiff.github.io/gigigatgat/sitemap.xml
